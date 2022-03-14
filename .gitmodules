@@ -1,0 +1,4 @@
+[submodule "github_lebedev"]
+	path = github_lebedev
+	url = git@github.com:lebedewalexey/github_origin_repo.git
+	branch = v1.0.0
